@@ -1,0 +1,6 @@
+{
+  "name": "AR English Vocabulary Game",
+  "description": "AR English vocabulary classification game ('a' vs 'an') with MediaPipe hand tracking and dynamic ocean AR effects.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
